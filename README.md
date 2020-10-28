@@ -1,0 +1,2 @@
+# oogami_repository
+やる気の出ない大上がとりあえず作業する
